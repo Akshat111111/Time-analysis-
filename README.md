@@ -11,6 +11,7 @@ Python provides a variety of tools and libraries for time analysis and forecasti
 1)Time Analysis: The time module in Python can be used to measure the execution time of code blocks or functions.
 
 2)Time Series Analysis: Pandas is a powerful library for time series analysis in Python. It provides data structures and functions for working with time series data
+
 3)Time Series Forecasting: There are several libraries available for time series forecasting in Python. One popular library is Prophet.
 
 Using the library
